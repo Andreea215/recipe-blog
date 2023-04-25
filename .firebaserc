@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "recipe-blog-3e3b3"
+  },
+  "targets": {
+    "recipe-blog-3e3b3": {
+      "hosting": {
+        "recipe-blog": [
+          "recipe-blog-3e3b3"
+        ]
+      }
+    }
+  }
+}
